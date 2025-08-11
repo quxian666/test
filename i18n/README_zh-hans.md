@@ -99,7 +99,7 @@ mvn package
 
 展示从「选择模型」到「启动服务」的全流程，包含版本选择、资源配置（CPU/GPU）、部署确认及启动成功提示。
 
-![](assets\deploy-model.gif)
+![](https://github.com/badousoft-com/badou-aimaas/blob/main/assets/deploy-model.gif)
 
 ## 演示：在线模型微调操作和微调后模型效果对比
 
